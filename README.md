@@ -42,3 +42,7 @@ Estou estudando por um curso no YouTube. <a href="https://www.youtube.com/playli
 <br>
 <h3>Terça: 25/01 - Visto aula 4/6 (CRUD completo com NestJS e MongoDB)</h3>
 <p>Foi realizado a conexão com o MongoDB, no CRUD feito na aula anterior, em seguida a criação da pasta schemas com o arquivo task.schema.ts, esse arquivo irá definir o esquema de como é cada documento da coleção de task. Depois de registrar o schema no task.module.ts, foi feito a integração do MongoDB no arquivo task.service.ts e lá, através do construtor, foi injetado o schema de task e criado o taskModule que será responsável por fazer a integração e buscar as informações no banco de dados e isso resultou em pequenas modificações nos códigos dos métados já feitos e também no arquivo task.controller.ts </p>
+
+
+<h3>Quarta: 26/01 - Visto aula 5/6 </h3>
+<p>Foi adicionado o CRUD users que irá realizar o cadrastro e buscar informações dos usuários no bando de dados</p>
