@@ -46,5 +46,9 @@ Estou estudando por um curso no YouTube. <a href="https://www.youtube.com/playli
 <h3>Quarta: 26/01 - Visto aula 5/6 </h3>
 <p>Foi adicionado o CRUD users que irá realizar o cadrastro e buscar informações dos usuários no bando de dados</p>
 
-<h3>Quarta: 27/01 - Visto aula 6/6 </h3>
-<p>Foi iniciado o parte que vai autentificar os usuários para acessarem as tarefas. É criado o arquivo auth.service.ts na pasta auth/shered lá há o AuthService que tem a função de recuperar um usuário e verificar a senha e também é criado o arquivo chamado local.strategy.ts na pasta auth/shered no qual é implementado a estratégia de autenticação local do Passport. Depois foi criado o Guard que serve para protejer as rotas e em seguida foi feito o controller com o a rota de login. Ainda falta a parte JWT.</p>
+<h3>Quinta: 27/01 - Visto aula 6/6 </h3>
+<p>Foi iniciado o parte que vai autenticar os usuários para acessarem as tarefas. É criado o arquivo auth.service.ts na pasta auth/shered lá há o AuthService que tem a função de recuperar um usuário e verificar a senha e também é criado o arquivo chamado local.strategy.ts na pasta auth/shered no qual é implementado a estratégia de autenticação local do Passport. Depois foi criado o Guard que serve para protejer as rotas e em seguida foi feito o controller com o a rota de login.</p>
+
+
+<h3>Sexta: 28/01 - Visto aula 6/6 </h3>
+<p>Foi adicionado a parte de JWT no sistema de autenticação</p>
