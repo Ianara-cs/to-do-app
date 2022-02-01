@@ -52,3 +52,6 @@ Estou estudando por um curso no YouTube. <a href="https://www.youtube.com/playli
 
 <h3>Sexta: 28/01 - Visto aula 6/6 </h3>
 <p>Foi adicionado a parte de JWT no sistema de autenticação</p>
+
+<h3>Segunda: 31/01  </h3>
+<p>Foi realizado a parte da validação dos dados do user que são enviados</p>
